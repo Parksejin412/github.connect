@@ -49,5 +49,7 @@
          
         🌟연결 확인하기
           -> git remote -v
-          
+         
+        🌟Github에 올리기
+         -> git push origin master
           
