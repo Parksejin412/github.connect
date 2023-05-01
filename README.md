@@ -39,4 +39,4 @@
           ->  git commit -m "first commit" 
           
         🌟Gitub의 repository를 만들고 그 주소와 연결하기
-          ->  
+          ->  git remote add origin https://github.com/Parksejin412/css.flex.git
