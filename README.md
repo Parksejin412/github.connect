@@ -45,11 +45,13 @@
           ->  git commit -m "first commit" 
           
         🌟Gitub의 repository를 만들고 그 주소와 연결하기
-          ->  git remote add origin https://github.com/Parksejin412/css.flex.git
+          ->  git remote add origin https://github.com/Parksejin412/css.flex.git (수정할때는 작성X)
          
         🌟연결 확인하기
           -> git remote -v
          
         🌟Github에 올리기
+         -> git pull origin master (수정할때 /pull->push)
          -> git push origin master
+         
           
