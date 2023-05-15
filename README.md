@@ -58,35 +58,35 @@
 
 # Github 협업하는 방법 (사원입장)
  ## 🚩1. 소스코드 다운로드
-   🌟협업하기위해 콜라보 초대 코드 공유 or 수락
+        🌟협업하기위해 콜라보 초대 코드 공유 or 수락
    
-   🌟new터미널 
+        🌟new터미널 
 
-   🌟git clone 입력
+        🌟git clone 입력
    
-   🌟git clone 코드주소  / 원하는 github 폴더 -> 코드 -> http 주소 복사
+        🌟git clone 코드주소  / 원하는 github 폴더 -> 코드 -> http 주소 복사
    
-     ->git clone https://github.com/Parksejin412/hanacard.git
+           ->git clone https://github.com/Parksejin412/hanacard.git
      
   ------------------------------------------------------------   
    
  ## 🚩2. 브랜치 만들기 
-   🌟git checkout -b 브랜치이름 / 가지생성(name) / ""입력X
-   
-     ->git checkout -b park 
-   
-   🌟 git add .
-   
-   🌟 git commit -m "name"
-   
-      -> git commit -m "신입 박세진" 
-   
-   🌟 git push origin 브랜치이름  / master 아니고 가지이름 입력
-   
-      -> git push origin park
-   
-   🌟 다음 이미지와 같이 되면 완료!
-   ![image](https://github.com/Parksejin412/github.connect/assets/129017065/0ddd771f-631c-4572-94e9-2a1f3457549c)
+           🌟git checkout -b 브랜치이름 / 가지생성(name) / ""입력X
+
+             ->git checkout -b park 
+
+           🌟 git add .
+
+           🌟 git commit -m "name"
+
+              -> git commit -m "신입 박세진" 
+
+           🌟 git push origin 브랜치이름  / master 아니고 가지이름 입력
+
+              -> git push origin park
+
+           🌟 다음 이미지와 같이 되면 완료!
+           ![image](https://github.com/Parksejin412/github.connect/assets/129017065/0ddd771f-631c-4572-94e9-2a1f3457549c)
 
    
    
