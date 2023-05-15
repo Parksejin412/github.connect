@@ -63,20 +63,24 @@
    🌟git clone 입력
    
    🌟git clone 코드주소  / 원하는 github 폴더 -> 코드 -> http 주소 복사
+   
      ->git clone https://github.com/Parksejin412/hanacard.git
      
   ------------------------------------------------------------   
    
  ## 🚩2. 브랜치 만들기 
-   🌟git checkout -b 브랜치이름 / 가지생성("name")
-     ->git checkout -b "park" 
+   🌟git checkout -b 브랜치이름 / 가지생성(name) / ""입력X
+   
+     ->git checkout -b park 
    
    🌟 git add .
    
    🌟 git commit -m "name"
+   
       -> git commit -m "신입 박세진" 
    
    🌟 git push origin 브랜치이름  / master 아니고 가지이름 입력
+   
       -> git push origin park
    
    🌟 다음 이미지와 같이 되면 완료!
